@@ -110,5 +110,5 @@ BASE_URLS = {
 - Replace this section with your details:
   - Name: Mahfuzur Rahman Chowdhury
   - Email: codingwithmahfuz@gmail.com
-  - GitHub: https://github.com/<codingwithmahfuz>
+  - GitHub: https://codingwithmahfuz/github.com/<codingwithmahfuz>
 
