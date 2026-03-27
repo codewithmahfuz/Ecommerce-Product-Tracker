@@ -1,4 +1,4 @@
-# E-commerce-Product-Tracker
+# Ecommerce-Product-Tracker
 
 A production-grade, multi-category ecommerce web scraper that extracts product details, cleans them with pandas, and exports both CSV and Excel.
 
